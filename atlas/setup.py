@@ -38,8 +38,6 @@ setup(
         "django-jsonfield-backport>=1.0.0,<2",
         "graphene-django==2.6.0",
         "PyYAML==6.0.2",
-        # @@@ can be dropped in Python > 3.8
-        "importlib-resources>=5.1.2,<6",
         "jsonlines>=2.0.0,<3",
         "regex>=2020.11.13",
         "tqdm>= 4.48.2,<5",
