@@ -34,8 +34,6 @@ setup(
         "django-sortedm2m>=2.0.0,<3",
         "django-treebeard>=4.3.0,<5",
         "Django>=2.2.15,<3",
-        # @@@ can be dropped in Django 3.1+
-        "django-jsonfield-backport>=1.0.0,<2",
         "graphene-django==2.6.0",
         "PyYAML==6.0.2",
         "jsonlines>=2.0.0,<3",
